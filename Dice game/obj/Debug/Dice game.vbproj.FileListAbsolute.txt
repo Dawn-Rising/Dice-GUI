@@ -1,0 +1,39 @@
+N:\MyWork\Year 10\Computing\Dice game\Dice game\bin\Debug\Dice game.exe.config
+N:\MyWork\Year 10\Computing\Dice game\Dice game\bin\Debug\Dice game.exe
+N:\MyWork\Year 10\Computing\Dice game\Dice game\bin\Debug\Dice game.pdb
+N:\MyWork\Year 10\Computing\Dice game\Dice game\bin\Debug\Dice game.xml
+N:\MyWork\Year 10\Computing\Dice game\Dice game\obj\Debug\Dice game.vbprojResolveAssemblyReference.cache
+N:\MyWork\Year 10\Computing\Dice game\Dice game\obj\Debug\Dice_game.Form1.resources
+N:\MyWork\Year 10\Computing\Dice game\Dice game\obj\Debug\Dice_game.Resources.resources
+N:\MyWork\Year 10\Computing\Dice game\Dice game\obj\Debug\Dice game.vbproj.GenerateResource.Cache
+N:\MyWork\Year 10\Computing\Dice game\Dice game\obj\Debug\Dice game.exe
+N:\MyWork\Year 10\Computing\Dice game\Dice game\obj\Debug\Dice game.xml
+N:\MyWork\Year 10\Computing\Dice game\Dice game\obj\Debug\Dice game.pdb
+\\dataserv\2014$\14DobinsonJ\MyWork\Year 10\Computing\Dice game\Dice game\bin\Debug\Dice game.exe.config
+\\dataserv\2014$\14DobinsonJ\MyWork\Year 10\Computing\Dice game\Dice game\obj\Debug\Dice game.exe
+\\dataserv\2014$\14DobinsonJ\MyWork\Year 10\Computing\Dice game\Dice game\obj\Debug\Dice game.xml
+\\dataserv\2014$\14DobinsonJ\MyWork\Year 10\Computing\Dice game\Dice game\obj\Debug\Dice game.pdb
+\\dataserv\2014$\14DobinsonJ\MyWork\Year 10\Computing\Dice game\Dice game\bin\Debug\Dice game.exe
+\\dataserv\2014$\14DobinsonJ\MyWork\Year 10\Computing\Dice game\Dice game\bin\Debug\Dice game.pdb
+\\dataserv\2014$\14DobinsonJ\MyWork\Year 10\Computing\Dice game\Dice game\bin\Debug\Dice game.xml
+\\dataserv\2014$\14DobinsonJ\MyWork\Year 10\Computing\Dice game\Dice game\obj\Debug\Dice game.vbprojResolveAssemblyReference.cache
+\\dataserv\2014$\14DobinsonJ\MyWork\Year 10\Computing\Dice game\Dice game\obj\Debug\Dice_game.Form1.resources
+\\dataserv\2014$\14DobinsonJ\MyWork\Year 10\Computing\Dice game\Dice game\obj\Debug\Dice_game.Resources.resources
+\\dataserv\2014$\14DobinsonJ\MyWork\Year 10\Computing\Dice game\Dice game\obj\Debug\Dice game.vbproj.GenerateResource.Cache
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\Dice game\Dice game\bin\Debug\Dice game.exe.config
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\Dice game\Dice game\obj\Debug\Dice game.exe
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\Dice game\Dice game\obj\Debug\Dice game.xml
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\Dice game\Dice game\obj\Debug\Dice game.pdb
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Dice game\Dice game\obj\Debug\Dice game.vbproj.AssemblyReference.cache
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Dice game\Dice game\obj\Debug\Dice_game.Form1.resources
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Dice game\Dice game\obj\Debug\Dice_game.Form2.resources
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Dice game\Dice game\obj\Debug\Dice_game.Resources.resources
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Dice game\Dice game\obj\Debug\Dice game.vbproj.GenerateResource.cache
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Dice game\Dice game\obj\Debug\Dice game.vbproj.CoreCompileInputs.cache
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Dice game\Dice game\obj\Debug\Dice game.exe
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Dice game\Dice game\obj\Debug\Dice game.xml
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Dice game\Dice game\obj\Debug\Dice game.pdb
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Dice game\Dice game\bin\Debug\Dice game.exe.config
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Dice game\Dice game\bin\Debug\Dice game.exe
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Dice game\Dice game\bin\Debug\Dice game.pdb
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Dice game\Dice game\bin\Debug\Dice game.xml
